@@ -1,0 +1,9 @@
+{
+  "name": "shamsi-solar",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Shamsi solar savings calculator for Jordan (installable web app)",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" }
+}
