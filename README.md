@@ -19,3 +19,7 @@ Edit `CONFIG` at the bottom of `public/index.html`:
 ## Install on a phone
 Open the link. iPhone (Safari): Share -> Add to Home Screen.
 Android (Chrome): menu -> Install app.
+
+## Live on GitHub Pages
+The `gh-pages` branch holds the contents of `public/` and is served at
+https://mato1999.github.io/shamsi-solar/
